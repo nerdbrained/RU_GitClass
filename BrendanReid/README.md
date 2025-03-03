@@ -4,4 +4,4 @@ Hi! I'm Brendan and I like turtles!
 
 I also work on fish!
 
-![a fish](spratelloides.jpg)
+![a fish](spratelloides.png)
