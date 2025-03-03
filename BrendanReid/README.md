@@ -5,3 +5,5 @@ Hi! I'm Brendan and I like turtles!
 I also work on fish!
 
 ![a fish](spratelloides.png)
+
+I'm working with RStudio!
